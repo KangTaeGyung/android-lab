@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Work\\android\\BasicSum\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Work\\android\\BasicSum\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Work\\android\\BasicSum\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Work\\android\\BasicSum\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]
