@@ -1,4 +1,4 @@
-#Sat Dec 18 15:36:00 KST 2021
+#Fri Jan 07 19:16:00 KST 2022
 base.0=C\:\\Work\\android\\BasicSum\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Work\\android\\BasicSum\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
